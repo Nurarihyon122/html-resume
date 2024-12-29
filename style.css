@@ -1,0 +1,30 @@
+h4.Skills{
+    color:rgb(73, 132, 132);
+
+}
+h4.Soft{
+    color:rgb(74, 126, 126);
+}
+h4.Education{
+    color: rgb(80, 35, 121);
+}
+h4.projects{
+    color:rgb(98, 43, 43);
+
+}
+h4.Certificates{
+    color:rgba(233, 152, 22, 0.655);
+}
+h4.contact{
+    color:rgb(47, 49, 114);
+    text-align: center;
+    
+}
+html{
+    
+    background-color:rgba(176, 202, 228, 0.129);
+}
+h2{
+    color:rgba(40, 81, 81, 0.758);
+    
+}
